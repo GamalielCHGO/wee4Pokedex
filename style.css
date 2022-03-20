@@ -1,0 +1,116 @@
+.imagen
+{
+    width: 100%;
+    height: 100%;
+} 
+.buscar
+{
+    position: absolute;
+    width: 4vw;
+    height: 4vw;
+    background: black;
+    top: 67.4%;
+    left: 21%;
+    border-radius: 100%;
+}
+.textoBuscar
+{
+    position: absolute;
+    width: 4vw;
+    height: 4vw;
+    top: 70%;
+    left: 21%;;
+    cursor: pointer;
+}
+.texto
+{
+    position: absolute;
+    width: 4vw;
+    height: 4vw;
+    top: 82%;
+    left: 23.8%;
+    text-align: center;
+    align-items: center;
+}
+.verde
+{
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    background: #5fc480;
+    border: none;
+}
+*:focus {
+outline: none;
+}
+.imagenPokemon
+{
+    background-color: white;
+    width: 10vw;
+    height: 10vw;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.contenedorImagenPokemon
+{
+    position: absolute;
+    width: 21vw;
+    height: 14vw;
+    top: 29%;
+    left: 23.5%;
+    background-color: white;
+    border-radius: 8%;
+}
+.nombre
+{
+    border: none;
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:  bolder;
+}
+.estadisticas
+{
+    position: absolute;
+    width: 22vw;
+    height: 7.9vw;
+    top: 31.2%;
+    left: 57%;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 15px;
+}
+.barras
+{
+    height: 25px;
+    margin-bottom: 1px;
+}
+.movimientos
+{
+    position: absolute;
+    width: 22vw;
+    height: 6.8vw;
+    top: 48.2%;
+    left: 57%;
+    text-align: center;
+    align-items: center;
+    background-color: #90e0ef;
+    border-radius: 15px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.movimientosTexto
+{
+    width: 22vw;
+    height: 4.8vw;
+    top: 48.2%;
+    left: 57%;
+    text-align: center;
+    align-items: center;
+    background-color: #90e0ef;
+    border-radius: 15px;
+    font-size: larger;
+}
